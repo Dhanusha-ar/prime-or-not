@@ -1,4 +1,5 @@
 package com.prime;
+{
 public class Main
 {
 	public static void main(String[] args) {
@@ -18,4 +19,5 @@ public class Main
 	   else
 	   System.out.println(number+" is not prime number");
 	}
+}
 }
